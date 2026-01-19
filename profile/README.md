@@ -2,7 +2,7 @@
   <img src="https://github.com/Onyx-International-Vietnam/.github/raw/main/assets/logo.png" width="140" alt="Onyx International Vietnam Logo"/>
 </p>
 
-<h1 align="center">Onyx International Vietnam</h1>
+<h1 align="center">ONYX United Foundation</h1>
 
 <p align="center">
   <b>Building Modern Websites & AI Camera Solutions</b>
