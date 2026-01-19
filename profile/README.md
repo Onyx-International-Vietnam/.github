@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="140" alt="Onyx International Vietnam Logo"/>
+  <img src="https://github.com/Onyx-International-Vietnam/.github/raw/main/assets/logo.png" width="140" alt="Onyx International Vietnam Logo"/>
 </p>
 
 <h1 align="center">Onyx International Vietnam</h1>
